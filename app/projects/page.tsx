@@ -43,7 +43,7 @@ export default function ProjectsPage() {
                 </div>
 
                 <img
-                  src="/projects/tic2/tic2.jpg"
+                  src="/projects/project-1-header.PNG"
                   alt="Neural recording"
                   className="w-48 aspect-video flex-none rounded-lg object-cover"
                 />
