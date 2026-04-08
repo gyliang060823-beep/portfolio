@@ -44,7 +44,7 @@ export default function ProjectsPage() {
 
                 <img
                   src="/projects/bme4910/project-1-header.png"
-                  alt="Neural recording"
+                  alt="Neural recording 1"
                   className="w-48 aspect-video flex-none rounded-lg object-cover"
                 />
 
