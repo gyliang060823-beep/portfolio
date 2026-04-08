@@ -43,7 +43,7 @@ export default function ProjectsPage() {
                 </div>
 
                 <img
-                  src="/projects/bme4910/project-1-header.png"
+                  src="/projects/project-1-header.png"
                   alt="Neural recording 1"
                   className="w-48 aspect-video flex-none rounded-lg object-cover"
                 />
